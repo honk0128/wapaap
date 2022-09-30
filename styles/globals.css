@@ -20,11 +20,18 @@ a {
 }
 
 .card {
+<<<<<<< HEAD
   @apply mb-5  block   rounded-lg border border-gray-200  shadow-md;
 }
 
 .primary-button {
   @apply rounded bg-amber-300 py-2 px-4 shadow outline-none hover:bg-amber-400  active:bg-amber-500;
+=======
+  @apply mb-5 block rounded-lg border border-gray-200  shadow-md;
+}
+.primary-button {
+  @apply rounded bg-amber-300 py-2 px-4 shadow outline-none hover:bg-amber-400 active:bg-amber-500;
+>>>>>>> 1c01142d027ef2b646a2c575fd6a48a8c2ca60cc
 }
 
 @media (prefers-color-scheme: dark) {
